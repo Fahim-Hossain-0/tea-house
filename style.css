@@ -70,3 +70,20 @@ background: rgba(87, 118, 57, 0.10);
 background: linear-gradient(90deg, #D9D9D9 0%, rgba(255, 255, 255, 0.00) 100%);
 }
 /* grid-section */
+/* news-event-section */
+
+.news-event-section{
+    border-radius: 10px;
+border: 1px solid var(--Dark-05, #D2D2D2);
+}
+/* news-event-section */
+/* footer */
+footer{
+    background: linear-gradient(270deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 137, 56, 0.10) 100%);
+}
+.footer-btn{
+    border-radius: 8px;
+background: var(--Linear, linear-gradient(270deg, #F00 0%, #FF8938 100%));
+}
+
+/* footer */
