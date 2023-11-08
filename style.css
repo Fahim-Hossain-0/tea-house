@@ -86,4 +86,20 @@ footer{
 background: var(--Linear, linear-gradient(270deg, #F00 0%, #FF8938 100%));
 }
 
+.form input {
+    background: transparent;
+    /* width: 35%; */
+    float: left;
+    /* margin-right: 40px; */
+    padding: 15px 0px;
+    /* background-color: #BEBDBC; */
+    /* border-radius: 5px; */
+    
+    border-bottom:1px solid black ;
+}
+.form input:focus{
+    outline: none;
+}
+
+
 /* footer */
